@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     provider: 'giscus',
     options: {
       // from data-repo
-      repo: 'ReinerBalschun/Reiners-zweite-Gehirn',
+      repo: 'ReinerBalschun/Reiners-zweites-Gehirn',
       // from data-repo-id
       repoId: 'R_kgDOMFWvHQ',
       // from data-category
